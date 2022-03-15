@@ -98,6 +98,3 @@ We are super excited about our first-ever Ultralytics YOLOv5 🚀 EXPORT Competi
 |[YOLOv5m6][assets]     |1280 |51.3   |69.3   |887    |11.1   |6.8    |35.7   |50.0
 |[YOLOv5l6][assets]     |1280 |53.7   |71.3   |1784   |15.8   |10.5   |76.8   |111.4
 |[YOLOv5x6][assets]<br>+ [TTA][TTA]|1280<br>1536 |55.0<br>**55.8** |72.7<br>**72.7** |3136<br>- |26.2<br>- |19.4<br>- |140.7<br>- |209.8<br>-
-
-<details>
-  <summary>Table Notes (click to expand)</summary>
